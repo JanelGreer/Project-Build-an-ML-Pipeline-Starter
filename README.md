@@ -1,3 +1,19 @@
+# Notes
+While working on the project, I transferred all files to my local machine to work in a local development environment.
+Due to persistent 403 errors when attempting to push changes to the forked repository, I had to manually upload the updated files to GitHub.
+
+# Links
+
+**Wandb:**
+>* https://wandb.ai/janelrgreer-western-governors-university/nyc_airbnb?nw=nwuserjanelrgreer
+>* https://wandb.ai/janelrgreer-western-governors-university/Project-Build-an-ML-Pipeline-Starter?nw=nwuserjanelrgreer
+>* https://wandb.ai/janelrgreer-western-governors-university/Project-Build-an-ML-Pipeline-Starter-src_basic_cleaning?nw=nwuserjanelrgreer
+>* https://wandb.ai/janelrgreer-western-governors-university/testing?nw=nwuserjanelrgreer
+
+**Github:**
+>* https://github.com/JanelGreer/Project-Build-an-ML-Pipeline-Starter
+
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
