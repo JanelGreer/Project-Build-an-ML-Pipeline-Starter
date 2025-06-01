@@ -1,7 +1,3 @@
-# Notes
-While working on the project, I transferred all files to my local machine to work in a local development environment.
-Due to persistent 403 errors when attempting to push changes to the forked repository, I had to manually upload the updated files to GitHub.
-
 # Links
 
 **Wandb:**
